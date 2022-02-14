@@ -1,0 +1,18 @@
+---
+title: "Zoom Link Jan 18 - Feb 4"
+output: 
+  html_document:
+    toc: true
+    toc_float: false
+    toc_collapsed: true
+    toc_depth: 4
+    number_sections: false
+    theme: readable
+    highlight: tango
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warning = FALSE, errors = FALSE, message = FALSE, tidy = FALSE, cache = FALSE)
+```
+
+The Zoom link for sessions from January 19 to February 4 is https://zoom.us/j/96286143040?pwd=UlRjYTBZTXdmQkhvQmRLaG5JZ2Vzdz09

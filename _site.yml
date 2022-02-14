@@ -1,0 +1,16 @@
+name: "CORE121 Election Science Spring 2022"
+navbar:
+  title: "CORE121 Election Science Spring 2022"
+  left:
+    - text: "Home"
+      href: zoom_link.html
+    - text: "About"
+      href: about.html
+    - text: "Syllabus"
+      href: syllabus.html
+    - text: "FAQ's about the class"
+      href: Notes-about-the-class.html
+    - text: "Zoom Link"
+      href: zoom_link.html
+    - text: "RStudio Lab 1"
+      href: core121-lab-1-v1.html

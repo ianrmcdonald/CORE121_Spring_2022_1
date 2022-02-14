@@ -1,0 +1,42 @@
+---
+title: "CORE121-09 and CORE121-13 Election Science Links"
+author: "Ian McDonald"
+date: "1/19/2022"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Welcome to CORE121-09 and CORE121-13: Election Science.  
+
+Here are some important links.  I am not planning to print hardcopies of the syllabus but if you want one let me know.
+
+### Syllabus
+
+html link: **https://bit.ly/3DsSIgk**  
+pdf link: **https://bit.ly/2WyzYea**  
+
+I recommend the html link.
+
+### Google Classroom
+
+The enrollment code is mds6pv2
+The invitation link can be found at **https://classroom.google.com/c/NDUwMzYxODk3MTUw?cjc=mds6pv2**
+
+Once you're enrolled, this code should get you to the class:
+**https://classroom.google.com/u/0/c/NDUwMzYxODk3MTUw**
+
+### Office 365 for Excel
+
+Go to **https://products.office.com/en-us/student/office-in-education** and enroll with your LC account.
+
+You should download and install Excel, and the Microsoft suite is a useful benefit provided by the college for free.  
+
+### RStudio Cloud
+
+Go to **https://rstudio.cloud/** and choose RStudio server.  Instructions for enrolling will be available on the classroom website.
+
+

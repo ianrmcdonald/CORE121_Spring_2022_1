@@ -1,11 +1,6 @@
 ---
 title: "CORE121 Election Science Syllabus Spring 2022"
 output:
-  pdf_document:
-    toc: no
-  word_document:
-    toc: no
-    toc_depth: '4'
   html_document:
     toc: yes
     toc_float:
@@ -13,6 +8,11 @@ output:
       smooth_scroll: no
     toc_depth: 4
     self_contained: no
+  word_document:
+    toc: no
+    toc_depth: '4'
+  pdf_document:
+    toc: no
 editor_options:
   markdown:
     wrap: 72
@@ -792,8 +792,8 @@ Your Data Project and Presentation.
 
 We will discuss the end-of-semester data projects, which include a
 presentation and a short paper. The presentations will cover the final
-five days of class, and the paper (2-3 pages) is due Wednesday, April
-27.
+five days of class, and the paper is due Wednesday, April
+27. See the prompt for details.
 
 The implications of district building with Dave's Redistricting tool and
 District Builder.\

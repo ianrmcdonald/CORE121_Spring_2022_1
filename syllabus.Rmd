@@ -495,12 +495,12 @@ Weekly Assignment: Apportionment
 
 ### Week 11 (due Apr 1) {#week-11-due-apr-1}
 
-Group Project \#1: Voting Systems
+Project \#1: Voting Systems
 <https://classroom.google.com/c/NDUwMzYxODk3MTUw/a/NDUwOTYzMTY2Mjgw/details>
 
 ### Week 12 (due Apr 8) {#week-12-due-apr-8}
 
-The last weekly assignment Group Project \#2: Gerrymandering
+The last weekly assignment project \#2: Gerrymandering
 <https://classroom.google.com/c/NDUwMzYxODk3MTUw/a/NDUwOTY1OTE1MzI3/details>
 
 ## Course Schedule
@@ -811,26 +811,26 @@ Monday, March 21 - Friday, March 25: Spring Break
 
 #### Monday, March 28
 
-Principles of Data Visualization
+Principles of Data Visualization and Weekly Assignment setup.  
 
-**Preclass Reading Assignment:** Read
-<https://fivethirtyeight.com/features/the-52-best-and-weirdest-charts-we-made-in-2016/>
-<https://towardsdatascience.com/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de>
-Read <https://www.livescience.com/45083-misleading-gun-death-chart.html>
-Read <https://badvisualisations.tumblr.com/>
+We will organize the ranked choice voting pivot table assignment, due Friday April 1. [Week 11 (due April 1)](#week-11-due-apr-1)
+
+**Preclass Reading Assignment:** 
+These articles give examples of data visualizations, and you may want to consider some of these formats for your capstone project.  We will review some of them in class:  
+<https://fivethirtyeight.com/features/the-52-best-and-weirdest-charts-we-made-in-2016/>  
+<https://towardsdatascience.com/data-visualization-101-7-steps-for-effective-visualizations-491a17d974de>  
+Read <https://www.livescience.com/45083-misleading-gun-death-chart.html>  
+Read <https://badvisualisations.tumblr.com/>  
 
 #### Wednesday, March 30
 
-Principles of Data Visualization
+Introduction to Data Wrapper at <https://www.datawrapper.de/maps>
 
 #### Friday, April 1
 
 Assignment Due: [Week 11 (due Apr 1)](#week-11-due-apr-1)
 
-Datawrapper workshop
-
-Look at this overview of an app called datawrapper.
-<https://www.datawrapper.de/maps>
+Complete this week's Ranked Choice Voting project and begin the final project due April 8.
 
 ### Week 12
 
